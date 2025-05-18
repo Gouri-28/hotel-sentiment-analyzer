@@ -1,5 +1,5 @@
 
-# 🏨 Hotel Sentiment Analyze
+# 🏨 Hotel Sentiment Analyzer
 
 A full-stack web application that analyzes user hotel reviews and suggests the best hotels based on sentiment and destination.
 
